@@ -1,0 +1,490 @@
+/*标语*/
+.index-banner{
+	position: relative;
+	height: 869px;
+}
+.index-banner .index-banner-logo{
+	margin-left: 20px;
+}
+.index-banner .index-banner-text{
+	text-align: center;
+}
+.index-banner .index-banner-text .banner-text1{
+	position: relative;
+	margin-top: 26px;
+	font-size: 48px;
+}
+.index-banner .index-banner-text .banner-text2{
+	position: relative;
+	margin-top: 30px;
+	font-size: 32px;
+}
+.index-banner .index-banner-text .banner-text3{
+	position: relative;
+	margin-top: 20px;
+	margin-bottom: 40px;
+	font-size: 32px;
+}
+.index-banner .index-banner-bg{
+	background: url(../picture/banner-bg.png) center no-repeat;
+	height: 600px;
+	width: 1800;
+	overflow: auto;
+	position: relative;
+}
+
+/*面板1：产品才是真王道*/
+.index-panel1{
+	height: 836px;
+	position: relative;
+	margin-top: -50px;
+	background-color: #e3ecf2;
+}
+.index-panel1 .index-panel1-text{
+	text-align: center;
+	width: 1200px;
+	height: 170px;
+	position: relative;
+	padding-top: 91px;
+}
+.index-panel1 .index-panel1-text .panel1-text1{
+	font-size: 44px;
+	color: #545e69;
+}
+.index-panel1 .index-panel1-text .panel1-text2{
+	font-size: 18px;
+	color: #4f5964;
+	position: relative;
+	margin-top: 68px;
+}
+.index-panel1 .index-panel1-block{
+	text-align: center;
+	height: 574px;
+	width:1200px;
+	position: relative;
+	margin-top: 105px;
+}
+.index-panel1 .index-panel1-block .panel1-block1{
+	width: 195px;
+	height: 324px;
+	background-color: #fefefe;
+	border-radius: 10px;
+	display: inline-block;
+	position: relative;
+	margin-right: 115px;
+}
+.index-panel1 .index-panel1-block .panel1-block2{
+	width: 195px;
+	height: 324px;
+	background-color: #fefefe;
+	border-radius: 10px;
+	display: inline-block;
+	position: relative;
+	margin-right: 115px;
+}
+.index-panel1 .index-panel1-block .panel1-block3{
+	width: 195px;
+	height: 324px;
+	background-color: #fefefe;
+	border-radius: 10px;
+	display: inline-block;
+	position: relative;
+	margin-right: 115px;
+}
+.index-panel1 .index-panel1-block .panel1-block4{
+	width: 195px;
+	height: 324px;
+	background-color: #fefefe;
+	border-radius: 10px;
+	display: inline-block;
+}
+.index-panel1 .index-panel1-block .panel1-block1 .panel1-block1-logo1{
+	height: 141px;
+	width: 195px;
+	background: url(../picture/block1-logo1.png) center no-repeat;
+}
+.index-panel1 .index-panel1-block .panel1-block2 .panel1-block2-logo2{
+	height: 141px;
+	width: 195px;
+	background: url(../picture/block2-logo2.png) center no-repeat;
+}
+.index-panel1 .index-panel1-block .panel1-block3 .panel1-block3-logo3{
+	height: 141px;
+	width: 195px;
+	background: url(../picture/block3-logo3.png) center no-repeat;	
+}
+.index-panel1 .index-panel1-block .panel1-block4 .panel1-block4-logo4{
+	height: 141px;
+	width: 195px;
+	background: url(../picture/block4-logo4.png) center no-repeat;
+}
+.index-panel1 .index-panel1-block .panel1-block-line{
+	width: 195px;
+	border: 1px solid #d1d3d3;
+}
+.index-panel1 .index-panel1-block .panel1-block-capital{
+	font-size: 19px;
+	color: #78c9de;
+	position: relative;
+	margin-top: 41px;
+}
+.index-panel1 .index-panel1-block .panel1-block-text{
+	width: 140px;
+	height: 57px;
+	font-size: 14px;
+	position: relative;
+	margin-top: 22px;
+	margin-left: 25px;
+	color: #c2c2c2;
+}
+
+/*面板2：格局引领未来*/
+.index-panel2{
+	height: 1010px;
+}
+.index-panel2 .index-panel2-text{
+	text-align: center;
+}
+.index-panel2 .index-panel2-text .panel2-text1{
+	font-size: 45px;
+	color: #666666;
+	position: relative;
+	margin-top: 114px;
+}
+.index-panel2 .index-panel2-text .panel2-text2{
+	font-size: 22px;
+	color: #666666;
+	position: relative;
+	margin-top: 65px;
+}
+.index-panel2 .index-panel2-bg{
+	background: url(../picture/panel2-bg.png) center no-repeat;
+	width: 1200px;
+	height: 612px;
+	position: relative;
+	margin-top: 82px;
+}
+
+/*面板3：匠心让我们精益求精*/
+.index-panel3{
+	background-color: #94bade;
+	height: 895px;
+}
+.index-panel3 .index-panel3-text{
+	text-align: center;
+}
+.index-panel3 .index-panel3-text .panel3-text1{
+	font-size: 44px;
+	color: #ffffff;
+	position: relative;
+	padding-top: 126px;
+}
+.index-panel3 .index-panel3-text .panel3-text2{
+	font-size: 24px;
+	color: #ffffff;
+	position: relative;
+	margin-top: 63px;
+}
+.index-panel3 .index-panel3-block{
+	margin-top: 108px;
+}
+.index-panel3 .index-panel3-block .panel3-firstline{
+	width: 1163px;
+	height: 169px;
+	text-align: center;
+}
+.index-panel3 .index-panel3-block .panel3-firstline .firstline-logo1{
+	width: 145px;
+	height: 145px;
+	background: url(../picture/firstline-logo1.png);
+	position: relative;
+	margin-right: 40px;
+	display: inline-block;
+}
+.index-panel3 .index-panel3-block .panel3-firstline .firstline-logo2{
+	width: 145px;
+	height: 145px;
+	background: url(../picture/firstline-logo2.png);
+	position: relative;
+	margin-right: 40px;
+	display: inline-block;
+}
+.index-panel3 .index-panel3-block .panel3-firstline .firstline-logo3{
+	width: 145px;
+	height: 145px;
+	background: url(../picture/firstline-logo3.png);
+	position: relative;
+	margin-right: 40px;
+	display: inline-block;
+}
+.index-panel3 .index-panel3-block .panel3-firstline .firstline-logo4{
+	width: 145px;
+	height: 145px;
+	background: url(../picture/firstline-logo4.png);
+	position: relative;
+	margin-right: 40px;
+	display: inline-block;
+}
+.index-panel3 .index-panel3-block .panel3-firstline .firstline-logo5{
+	width: 145px;
+	height: 145px;
+	background: url(../picture/firstline-logo5.png);
+	position: relative;
+	margin-right: 40px;
+	display: inline-block;
+}
+.index-panel3 .index-panel3-block .panel3-firstline .firstline-logo6{
+	width: 145px;
+	height: 145px;
+	background: url(../picture/firstline-logo6.png);
+	position: relative;
+	margin-right: 3px;
+	display: inline-block;
+}
+
+.index-panel3 .index-panel3-block .panel3-secondline{
+	width: 1163px;
+	height: 169px;
+	text-align: center;
+}
+.index-panel3 .index-panel3-block .panel3-secondline .secondline-logo1{
+	width: 145px;
+	height: 145px;
+	background: url(../picture/secondline-logo1.png);
+	position: relative;
+	margin-right: 40px;
+	margin-top: 24px;
+	display: inline-block;
+}
+.index-panel3 .index-panel3-block .panel3-secondline .secondline-logo2{
+	width: 145px;
+	height: 145px;
+	background: url(../picture/secondline-logo2.png);
+	position: relative;
+	margin-right: 40px;
+	margin-top: 24px;
+	display: inline-block;
+}
+.index-panel3 .index-panel3-block .panel3-secondline .secondline-logo3{
+	width: 145px;
+	height: 145px;
+	background: url(../picture/secondline-logo3.png);
+	position: relative;
+	margin-right: 40px;
+	margin-top: 24px;
+	display: inline-block;
+}
+.index-panel3 .index-panel3-block .panel3-secondline .secondline-logo4{
+	width: 145px;
+	height: 145px;
+	background: url(../picture/secondline-logo4.png);
+	position: relative;
+	margin-right: 40px;
+	margin-top: 24px;
+	display: inline-block;
+}
+.index-panel3 .index-panel3-block .panel3-secondline .secondline-logo5{
+	width: 145px;
+	height: 145px;
+	background: url(../picture/secondline-logo5.png);
+	position: relative;
+	margin-right: 40px;
+	margin-top: 24px;
+	display: inline-block;
+}
+.index-panel3 .index-panel3-block .panel3-secondline .secondline-logo6{
+	width: 145px;
+	height: 145px;
+	background: url(../picture/secondline-logo6.png);
+	position: relative;
+	margin-top: 24px;
+	display: inline-block;
+}
+
+.index-panel3 .botton-group{
+	font-size: 0px;
+	text-align: center;
+	position: relative;
+	margin-top: 86px;
+}
+.index-panel3 .botton-group .botton{
+	display: inline-block;
+	margin-left: 16px;
+	width: 22px;
+	height: 22px;
+	background: #9b9b9b;
+	border-radius: 50%;
+}
+.index-panel3 .botton-group .active{
+	background: #dedede;
+}
+
+/*面板4：陪伴是最长情的告白*/
+.index-panel4{
+	height: 990px;
+}
+.index-panel4 .index-panel4-text{
+	text-align: center;
+}
+.index-panel4 .index-panel4-text .panel4-text1{
+	font-size: 45px;
+	color: #666666;
+	position: relative;
+	margin-top: 107px;
+}
+.index-panel4 .index-panel4-text .panel4-text2{
+	font-size: 22px;
+	color: #666666;
+	position: relative;
+	margin-top: 58px;
+}
+.index-panel4 .index-panel4-block{
+	margin-top: 121px;
+}
+.index-panel4 .index-panel4-block .panel4-firstline{
+	width: 1181px;
+	height: 206px;
+	text-align: center;
+}
+.index-panel4 .index-panel4-block .panel4-firstline .firstline-pic1{
+	height: 206px;
+	width: 180px;
+	display: inline-block;
+	position: relative;
+	margin-right: 12px;
+	background: url(../picture/firstline-pic1.png);
+}
+.index-panel4 .index-panel4-block .panel4-firstline .firstline-pic2{
+	height: 206px;
+	width: 180px;
+	display: inline-block;
+	position: relative;
+	margin-right: 12px;
+	background: url(../picture/firstline-pic2.png);
+}
+.index-panel4 .index-panel4-block .panel4-firstline .firstline-pic3{
+	height: 206px;
+	width: 180px;
+	display: inline-block;
+	position: relative;
+	margin-right: 12px;
+	background: url(../picture/firstline-pic3.png);
+}
+.index-panel4 .index-panel4-block .panel4-firstline .firstline-pic4{
+	height: 206px;
+	width: 180px;
+	display: inline-block;
+	position: relative;
+	margin-right: 12px;
+	background: url(../picture/firstline-pic4.png);
+}
+.index-panel4 .index-panel4-block .panel4-firstline .firstline-pic5{
+	height: 206px;
+	width: 180px;
+	display: inline-block;
+	position: relative;
+	/*margin-right: 12px;*/
+	background: url(../picture/firstline-pic5.png);
+}
+
+.index-panel4 .index-panel4-block .panel4-secondline{
+	width: 1181px;
+	height: 208px;
+	text-align: center;
+	margin-top: -39px;
+}
+.index-panel4 .index-panel4-block .panel4-secondline .secondline-pic1{
+	width: 180px;
+	height: 206px;
+	display: inline-block;
+	position: relative;
+	margin-right: 12px;
+	background: url(../picture/secondline-pic1.png);
+}
+.index-panel4 .index-panel4-block .panel4-secondline .secondline-pic2{
+	width: 180px;
+	height: 206px;
+	display: inline-block;
+	position: relative;
+	margin-right: 12px;
+	background: url(../picture/secondline-pic2.png);
+}
+.index-panel4 .index-panel4-block .panel4-secondline .secondline-pic3{
+	width: 180px;
+	height: 206px;
+	display: inline-block;
+	position: relative;
+	margin-right: 12px;
+	background: url(../picture/secondline-pic3.png);
+}
+.index-panel4 .index-panel4-block .panel4-secondline .secondline-pic4{
+	width: 180px;
+	height: 206px;
+	display: inline-block;
+	position: relative;
+	margin-right: 12px;
+	background: url(../picture/secondline-pic4.png);
+}
+.index-panel4 .index-panel4-block .panel4-secondline .secondline-pic5{
+	width: 180px;
+	height: 206px;
+	display: inline-block;
+	position: relative;
+	margin-right: 12px;
+	background: url(../picture/secondline-pic5.png);
+}
+.index-panel4 .index-panel4-block .panel4-secondline .secondline-pic6{
+	width: 180px;
+	height: 206px;
+	display: inline-block;
+	position: relative;
+	/*margin-right: 12px;*/
+	background: url(../picture/secondline-pic6.png);
+}
+
+.index-panel4 .index-panel4-block .panel4-thirdline{
+	width: 1181px;
+	height: 207px;
+	text-align: center;
+	margin-top: -39px;
+}
+.index-panel4 .index-panel4-block .panel4-thirdline .thirdline-pic1{
+	width: 180px;
+	height: 206px;
+	display: inline-block;
+	position: relative;
+	margin-right: 12px;
+	background: url(../picture/thirdline-pic1.png);
+}
+.index-panel4 .index-panel4-block .panel4-thirdline .thirdline-pic2{
+	width: 180px;
+	height: 206px;
+	display: inline-block;
+	position: relative;
+	margin-right: 12px;
+	background: url(../picture/thirdline-pic2.png);
+}
+.index-panel4 .index-panel4-block .panel4-thirdline .thirdline-pic3{
+	width: 180px;
+	height: 206px;
+	display: inline-block;
+	position: relative;
+	margin-right: 12px;
+	background: url(../picture/thirdline-pic3.png);
+}
+.index-panel4 .index-panel4-block .panel4-thirdline .thirdline-pic4{
+	width: 180px;
+	height: 206px;
+	display: inline-block;
+	position: relative;
+	margin-right: 12px;
+	background: url(../picture/thirdline-pic4.png);
+}
+.index-panel4 .index-panel4-block .panel4-thirdline .thirdline-pic5{
+	width: 180px;
+	height: 206px;
+	display: inline-block;
+	position: relative;
+	/*margin-right: 12px;*/
+	background: url(../picture/thirdline-pic5.png);
+}

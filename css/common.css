@@ -1,0 +1,68 @@
+.public-header
+{
+	height: 69px;
+}
+.public-header .header-logo
+{
+	float: left;
+	margin-top: 16px;
+	/*background: url("../picture/index-header-logo.png");*/
+}
+.public-header .header-logo a
+{
+	width: 105px;
+	height: 38px;
+}
+.public-header .header-nav
+{
+	float: right;
+	font-size: 15px;
+}
+.public-header .header-nav .item
+{
+	float: left;
+	margin-top: 31px;
+	margin-left: 48px;
+}
+.public-header .header-nav .tail{
+	float: right;
+	margin-top: 31px;
+	margin-left: 46px;
+}
+.public-header .header-nav a
+{
+	color: #3b3b3b;
+}
+.public-header .header-nav a:hover
+{
+	text-decoration: underline;
+}
+.public-container
+{
+	position: relative;
+	margin: 0 auto;
+	width: 1200px;
+}
+#phone{
+	display: inline-block;
+	margin-right: 0px;
+}
+#phone-number{
+	margin-left: -1px;
+}
+#online-trial{
+	border: 1px solid #00a0e9;
+	margin-top: 22px;
+	padding: 9px 22px 9px 22px;
+	border-radius: 5px;
+}
+#free-download{
+	border: 1px solid #00a0e9;
+	margin-top: 22px;
+	padding: 9px 22px 9px 22px;
+	border-radius: 5px;
+	background-color: #25a9e1;
+}
+#free-download-color{
+	color: #fff;
+}
